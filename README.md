@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hellow! i'm Peculiar 👋
 # 💫 About Me:
 i'm currently a computer engineering student with hands on experience in IT support, audio-visual systems, web development, AI engineering, Automation, and technical operations within corporate annd hospitality.<br>skilled in programming, Hardware troubleshooting, AI application development, and system support, with a strong interest in applying technical knowledge to real world engineering and technology challenges Utilizing React, JavaScript, CSS, Next.js, python, Claude code, and OpenAI APIs to build scalable range applications. <br> known for adaptability, teamwork, and problem-solving in fast-paced operational setting.
 
